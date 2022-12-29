@@ -19,3 +19,7 @@ One can create different channels to talk to!
 One can also edit them if the name is not the right one!
 
 ![Screenshot_20221228_050518](https://user-images.githubusercontent.com/108836371/209890575-b8074dfd-d8fc-4e3b-90be-0248693af19b.png)
+
+Setup:
+
+run npm i && npm start for both client and server side to start the development server
