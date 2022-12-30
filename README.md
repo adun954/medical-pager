@@ -4,22 +4,24 @@ This is a real-time chat application where one can make an account and chat with
 
 This web application has a lot of features!
 
-One can utililize a Sign In and Registration page!
+One can make their credentials to sign in and login to the website to start chatting with friends!
+
+![Screenshot_20221230_121847](https://user-images.githubusercontent.com/108836371/210109172-05fbf6bb-a5ec-41e1-9376-b99e1eae7d38.png)
 
 ![Screenshot_20221228_040317](https://user-images.githubusercontent.com/108836371/209890319-7de6ba2b-b6e2-4d86-921a-191e5f9f96fd.png)
 
 One can send a direct messages to another user!
+![Screenshot_20221230_121942](https://user-images.githubusercontent.com/108836371/210109257-22495380-8b47-452f-8a6a-13b3c8bfc0c9.png)
 
-![Screenshot_20221228_045810](https://user-images.githubusercontent.com/108836371/209890276-f78f5c87-209d-4753-a83f-3ea8a2716b4c.png)
+One can create and search for different channels to talk to!!
 
-One can create different channels to talk to!
+![Screenshot_20221230_122457](https://user-images.githubusercontent.com/108836371/210109388-ec2bc140-ccdb-4ee6-aef5-2f90c309d74f.png)
 
-![Screenshot_20221228_045711](https://user-images.githubusercontent.com/108836371/209890398-dc59b20f-85ee-46b1-8636-9c38f953734c.png)
+![Screenshot_20221230_122436](https://user-images.githubusercontent.com/108836371/210109391-0902f761-5b2c-4ee5-a228-741384849330.png)
 
-One can also edit them if the name is not the right one!
+One can also edit the channel name if it is not the preferred channel name of choice!
 
-![Screenshot_20221228_050518](https://user-images.githubusercontent.com/108836371/209890575-b8074dfd-d8fc-4e3b-90be-0248693af19b.png)
 
-Setup:
+![Screenshot_20221230_122629](https://user-images.githubusercontent.com/108836371/210109489-b8dffb7e-0d07-4065-aa4b-aa3c1151d7fc.png)
 
-run npm i && npm start for both client and server side to start the development server
+
