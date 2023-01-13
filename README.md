@@ -25,3 +25,9 @@ One can also edit the channel name if it is not the preferred channel name of ch
 ![Screenshot_20221230_122629](https://user-images.githubusercontent.com/108836371/210109489-b8dffb7e-0d07-4065-aa4b-aa3c1151d7fc.png)
 
 
+Installation
+Clone the repo
+git clone https://github.com/adun954/medical-pager.git
+
+Install NPM packages
+npm install
